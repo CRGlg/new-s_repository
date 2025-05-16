@@ -1,7 +1,7 @@
 
 
-const NOME_CURSO = Sistemas_de_Iformação;
-const INSTITUICAO = Multivix;
+const NOME_CURSO = "Sistemas_de_Iformação";
+const INSTITUICAO = "Multivix";
 
 $semestre_atual = "7";
 
