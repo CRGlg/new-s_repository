@@ -7,7 +7,7 @@ $semestre_atual = "7";
 
 
 $mensagen = "Estou no " . $semestre_atual . "° periodo do curso de " . NOME_CURSO . " a " . INSTITUICAO ;
-echo "<p> $mensagen </p>";
+echo "<p> $mensagen </p>"; <br>
 
 
 
