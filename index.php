@@ -14,7 +14,7 @@ echo "<p> $mensagen </p>";
 
 $mensagen1 = "Você está no curso há " . X0 . " anos.";
 echo "<p> $mensagen </p>;
-echo "<br>";
+
 
 $frutas = ["Banana", "Uva", "Melão"];
 
